@@ -1,0 +1,16 @@
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList.deps.json
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList.runtimeconfig.json
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList.runtimeconfig.dev.json
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList.dll
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/ref/linkedList.dll
+/home/cepl/Projects/DataStructures/linkedList/bin/Debug/net5.0/linkedList.pdb
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.csproj.AssemblyReference.cache
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.AssemblyInfoInputs.cache
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.AssemblyInfo.cs
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.dll
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/ref/linkedList.dll
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.pdb
+/home/cepl/Projects/DataStructures/linkedList/obj/Debug/net5.0/linkedList.genruntimeconfig.cache
